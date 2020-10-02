@@ -1,6 +1,7 @@
 # flower-dl
 
-Python script that downloads all flower images from https://www.atozflowers.com/
+Python script that downloads all flower images from https://www.atozflowers.com/ <br/>
+Images are well suited to be used as a dataset for machine learning models.
 
 #### Setup using pipenv:
 - `pipenv shell` to create virtual environment
@@ -9,4 +10,4 @@ Python script that downloads all flower images from https://www.atozflowers.com/
 
 #### Usage:
 - `python flower-dl.py` to run script
-- Images will download to `./img` folder in working directory
+- Images will download to `img` folder in project directory
