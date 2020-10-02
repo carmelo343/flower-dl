@@ -8,5 +8,5 @@ Python script that downloads all flower images from https://www.atozflowers.com/
 
 
 #### Usage:
-- `python flower-dl` to run script
+- `python flower-dl.py` to run script
 - Images will download to `./img` folder in working directory
