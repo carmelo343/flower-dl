@@ -9,5 +9,5 @@ Images are well suited to be used as a dataset for machine learning models.
 
 
 #### Usage:
-- `python flower-dl.py` to run script
+- `python flower_dl.py` to run script
 - Images will download to `img` folder in project directory
